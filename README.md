@@ -79,9 +79,3 @@ O Herói de nome Henrique está no nível de Imortal.
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e solicitar recursos (pull requests).
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE). Consulte o arquivo para mais detalhes.
